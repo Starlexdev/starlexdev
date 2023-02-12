@@ -1,2 +1,0 @@
-# StarLex
-My portfolio website.
